@@ -148,13 +148,8 @@ The model processes video frames in real-time and detects objects frame by frame
 
 <div style="display: flex; justify-content: center; gap: 10px">
     <p align="center">
-        <img src="./assets/dog-cat.gif" width="700" />
+        <img src="./assets/dog-cat.gif" width="700" style="border-radius: 5px; box-shadow: #333 2px 2px 2px" />
         <br>
         <em>Example: Detecting a dog and a cat in a video.</em>
-    </p>
-    <p align="center">
-        <img src="./assets/traffic.gif" width="700" />
-        <br>
-        <em>Example: Detecting cars and traffic signs in a video.</em>
     </p>
 </div>
