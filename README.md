@@ -11,7 +11,7 @@ This project implements object identification, both in images and videos, using 
   - Images: `.jpg`, `.png`, `.jpeg`
   - Videos: `.mp4`, `.avi`, `.mov`, `.mkv`
 
-## Resources
+## 📚 Resources
 
 - [Python](https://www.python.org/downloads/)
 - [PyTorch](https://pytorch.org/)
